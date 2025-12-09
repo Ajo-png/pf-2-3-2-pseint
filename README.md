@@ -12,5 +12,4 @@ Escribir un programa con las siguientes características, usando pseudocódigo.
 
 ## Entrega
 Captura de tu pseudocódigo
-y del diagrama de flujo que genera PSeint, en caso de que tengas error para mostrar el diagrama 
-anotarlo en la entrega del laboratorio. 
+y del diagrama de flujo que genera PSeint. 
